@@ -1,0 +1,6 @@
+
+catalogo de rochas e mierais
+
+    Este código cataloga rochas e minerais, incluido fatores como dureza e local em que foram encontrado
+armazenando-os em suas distintas listas, que apresenta a 
+implementação do CRUD em relação aos itens das listas.
