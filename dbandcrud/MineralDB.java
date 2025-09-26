@@ -1,7 +1,7 @@
 package operacoes;
 import java.util.ArrayList;
 import java.util.Scanner;
-import classesConceituais.Mineral;
+import classesConceituais.*;
 
 public class MineralDB {
 

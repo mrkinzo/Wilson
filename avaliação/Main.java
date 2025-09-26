@@ -1,10 +1,9 @@
 
 import java.util.Scanner;
 
-import classesConceituais.Mineral;
-import operacoes.MineralDB;
-import operacoes.OperacoesM;
-import operacoes.OperacoesR;
+import classesConceituais.*;
+import operacoes.*;
+
 
 public class Main {
     final static Scanner LER = new Scanner(System.in);

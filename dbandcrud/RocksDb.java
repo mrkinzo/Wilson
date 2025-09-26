@@ -2,7 +2,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import operacoes.OperacoesR;
+import operacoes.*;
 
 public class RocksDb {
     final static Scanner LER = new Scanner(System.in);

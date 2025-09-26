@@ -1,7 +1,7 @@
 package operacoes;
 import java.util.Scanner;
 
-import classesConceituais.Dureza;
+import classesConceituais.*;
 
 
 public class OperacoesR      {
