@@ -1,5 +1,8 @@
+package operacoes;
 
 import java.util.Scanner;
+
+import classesConceituais.Site;
 
 public class OperacoesS extends Site {
     final static Scanner LER = new Scanner(System.in);

@@ -1,3 +1,4 @@
+package classesConceituais;
 public class Dureza {
     private float dureza;
 

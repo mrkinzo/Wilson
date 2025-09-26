@@ -1,3 +1,5 @@
+package classesConceituais;
+
 public class Mineral {
     private String name;
     private Site site;

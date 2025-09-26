@@ -1,3 +1,4 @@
+package classesConceituais;
 public class Site {
     public String Name;
     public int sId;

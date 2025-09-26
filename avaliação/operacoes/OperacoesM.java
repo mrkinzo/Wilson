@@ -1,4 +1,8 @@
+package operacoes;
 import java.util.Scanner;
+
+import classesConceituais.Dureza;
+import classesConceituais.Mineral;
 
 public class OperacoesM {
     final static Scanner LER = new Scanner(System.in);

@@ -1,5 +1,7 @@
+package operacoes;
 import java.util.ArrayList;
 import java.util.Scanner;
+import classesConceituais.Mineral;
 
 public class MineralDB {
 
