@@ -1,9 +1,6 @@
 
 import java.util.Scanner;
 
-import classesConceituais.*;
-import operacoes.*;
-
 
 public class Main {
     final static Scanner LER = new Scanner(System.in);

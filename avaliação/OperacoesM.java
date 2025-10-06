@@ -1,7 +1,5 @@
-package operacoes;
-import java.util.Scanner;
 
-import classesConceituais.*;
+import java.util.Scanner;
 
 
 public class OperacoesM {

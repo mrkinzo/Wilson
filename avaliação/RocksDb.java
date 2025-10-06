@@ -2,8 +2,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import operacoes.*;
-
 public class RocksDb {
     final static Scanner LER = new Scanner(System.in);
     static ArrayList<Rock> rockLog = new ArrayList<>();

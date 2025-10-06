@@ -1,4 +1,4 @@
-package classesConceituais;
+
 
 public class Mineral {
     private String name;
